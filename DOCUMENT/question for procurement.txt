@@ -1,0 +1,11 @@
+what is the average unit price for Reagent?
+Show me the top 10 most expensive materials by unit price.
+Show vendors with the highest average price deviation from benchmarks
+how many total vendors are there ?
+Which vendor has the highest total PO amount?
+List GMP-compliant vendors with the lowest average unit prices
+
+
+What percentage of materials have unit prices above benchmark?
+Which materials had the largest price increases in the last 6 months?
+what is the total PO amount for Fisher Scientific

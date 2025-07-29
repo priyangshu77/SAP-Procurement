@@ -1,0 +1,18 @@
+What is the average PO value per vendor?
+What is the total PO value created by MALVIYAH?
+What is the total PO value created in 2022?
+Compare PO value across currencies.
+How many orders were placed using foreign currencies vs local currency?
+Who are the top 5 vendors based on the number of purchase orders?
+Which vendor was used most frequently by MALVIYAH?
+What is the PO_Amount for MALVIYAH with PO number 4500001086?
+
+
+
+What percentage of orders were placed in foreign vs local currencies?
+What is the standard deviation of PO value per vendor?
+Which vendor has the highest total PO value?
+What is the average PO amount per user?
+How many orders were created between January and March 2022?
+What percentage of total PO value was created by the top 5 vendors?
+Show POs with amount greater than $10,000
