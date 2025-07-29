@@ -1,0 +1,101 @@
+Material_Name,Material_Type,Vendor_Name,GMP_Compliance,Specification,Form,Material_Grade,Unit_Price,Benchmark_Price,Price_Deviation (%),Price_Tier,Quantity_Ordered,PO_Amount,Currency,Supplier_Portal_Name,Portal_Price,Portal_Currency,Price_Source_Timestamp,Portal_vs_Unit_Deviation (%),Portal_Validation_Status,Portal_Link
+Hydrochloric Acid,Reagent,Sigma Aldrich,No,EP,Crystalline,Pharma Grade,44.34,42.75,3.72,Fair,230,10198.2,USD,SAP Ariba,40.34,USD,2025-07-23,9.92,Invalid,https://sapariba.com/Hydrochloric_Acid
+Magnesium Stearate,Excipient,Fisher Scientific,No,AR Grade,Liquid,LR,76.3,71.59,6.58,High,188,14344.4,INR,SAP Ariba,81.8,INR,2025-07-04,-6.72,Valid,https://sapariba.com/Magnesium_Stearate
+Piperidine,Reagent,Fisher Scientific,Yes,98.0–102.0%,Powder,AR,48.51,48.91,-0.82,Fair,182,8828.82,USD,LabNetwork,44.44,USD,2025-07-19,9.16,Valid,https://labnetwork.com/Piperidine
+Piperidine,Reagent,Fisher Scientific,No,98.0–102.0%,Powder,USP,69.36,72.99,-4.97,Fair,230,15952.8,EUR,SAP Ariba,67.93,EUR,2025-07-16,2.11,Invalid,https://sapariba.com/Piperidine
+Citric Acid,Excipient,Fisher Scientific,Yes,AR Grade,Granular,AR,129.33,117.64,9.94,High,482,62337.06,EUR,MolPort,122.14,EUR,2025-07-12,5.89,Valid,https://molport.com/Citric_Acid
+Sodium Hydroxide,Reagent,CDH,No,EP,Crystalline,USP,101.46,104.43,-2.84,Fair,72,7305.12,EUR,ChemSpider,116.96,EUR,2025-07-08,-13.25,Valid,https://chemspider.com/Sodium_Hydroxide
+Methanol,Solvent,CDH,No,USP,Liquid,AR,96.55,88.6,8.97,High,40,3862.0,EUR,MolPort,86.52,EUR,2025-07-02,11.59,Valid,https://molport.com/Methanol
+Hydrochloric Acid,Reagent,SRL,No,EP,Granular,AR,105.99,102.8,3.1,Fair,328,34764.72,EUR,MolPort,103.89,EUR,2025-07-11,2.02,Valid,https://molport.com/Hydrochloric_Acid
+Methanol,Solvent,CDH,No,EP,Crystalline,AR,102.71,100.77,1.93,Fair,117,12017.07,EUR,MolPort,93.63,EUR,2025-06-29,9.7,Valid,https://molport.com/Methanol
+Piperidine,Reagent,Loba Chemie,No,EP,Liquid,LR,116.37,119.75,-2.82,Fair,28,3258.36,INR,SAP Ariba,108.73,INR,2025-07-16,7.03,Valid,https://sapariba.com/Piperidine
+Dimethylformamide,Solvent,Sigma Aldrich,Yes,AR Grade,Granular,LR,95.38,102.3,-6.76,Low,255,24321.9,EUR,Alibaba,91.48,EUR,2025-07-16,4.26,Invalid,https://alibaba.com/Dimethylformamide
+Piperidine,Reagent,Fisher Scientific,No,USP,Powder,AR,53.37,49.53,7.75,High,226,12061.62,EUR,SAP Ariba,52.5,EUR,2025-06-28,1.66,Invalid,https://sapariba.com/Piperidine
+Hydrochloric Acid,Reagent,CDH,No,98.0–102.0%,Liquid,USP,73.97,67.51,9.57,High,310,22930.7,USD,ChemSpider,57.42,USD,2025-07-03,28.82,Invalid,https://chemspider.com/Hydrochloric_Acid
+Hydrochloric Acid,Reagent,Fisher Scientific,No,EP,Powder,Pharma Grade,44.81,45.2,-0.86,Fair,106,4749.86,INR,MolPort,39.38,INR,2025-07-22,13.79,Valid,https://molport.com/Hydrochloric_Acid
+Acetic Anhydride,Solvent,Fisher Scientific,No,USP,Crystalline,USP,86.45,78.71,9.83,High,400,34580.0,USD,SAP Ariba,90.0,USD,2025-07-07,-3.94,Valid,https://sapariba.com/Acetic_Anhydride
+Methanol,Solvent,Loba Chemie,Yes,AR Grade,Liquid,Pharma Grade,73.24,74.61,-1.84,Fair,457,33470.68,EUR,ChemSpider,83.86,EUR,2025-07-02,-12.66,Valid,https://chemspider.com/Methanol
+Dimethylformamide,Solvent,Merck,No,98.0–102.0%,Granular,USP,102.18,108.55,-5.87,Low,400,40872.0,EUR,SAP Ariba,114.97,EUR,2025-07-05,-11.12,Valid,https://sapariba.com/Dimethylformamide
+Acetic Anhydride,Solvent,Fisher Scientific,No,USP,Powder,Pharma Grade,30.39,31.47,-3.43,Fair,277,8418.03,USD,ChemSpider,31.61,USD,2025-07-22,-3.86,Valid,https://chemspider.com/Acetic_Anhydride
+Dimethylformamide,Solvent,Loba Chemie,Yes,EP,Powder,USP,53.0,57.93,-8.51,Low,385,20405.0,INR,MolPort,59.75,INR,2025-06-29,-11.3,Valid,https://molport.com/Dimethylformamide
+Sodium Hydroxide,Reagent,Loba Chemie,Yes,≥99.0%,Powder,LR,92.03,100.44,-8.37,Low,117,10767.51,INR,MolPort,107.86,INR,2025-07-02,-14.68,Valid,https://molport.com/Sodium_Hydroxide
+Dimethylformamide,Solvent,Loba Chemie,No,AR Grade,Granular,AR,34.69,33.49,3.58,Fair,382,13251.58,EUR,SAP Ariba,28.94,EUR,2025-06-29,19.87,Invalid,https://sapariba.com/Dimethylformamide
+Acetic Anhydride,Solvent,Sigma Aldrich,Yes,USP,Liquid,Pharma Grade,61.15,65.81,-7.08,Low,115,7032.25,EUR,MolPort,67.21,EUR,2025-07-06,-9.02,Invalid,https://molport.com/Acetic_Anhydride
+Toluene,Solvent,Merck,No,AR Grade,Crystalline,AR,122.87,116.41,5.55,High,387,47550.69,USD,ChemSpider,114.21,USD,2025-07-04,7.58,Valid,https://chemspider.com/Toluene
+Hydrochloric Acid,Reagent,SRL,No,USP,Powder,Pharma Grade,59.12,56.55,4.54,Fair,425,25126.0,INR,Alibaba,53.55,INR,2025-07-04,10.4,Invalid,https://alibaba.com/Hydrochloric_Acid
+Methanol,Solvent,SRL,Yes,98.0–102.0%,Liquid,AR,66.02,64.01,3.14,Fair,166,10959.32,USD,SAP Ariba,72.33,USD,2025-07-26,-8.72,Valid,https://sapariba.com/Methanol
+Citric Acid,Excipient,SRL,Yes,98.0–102.0%,Liquid,USP,106.28,114.32,-7.03,Low,333,35391.24,INR,MolPort,98.61,INR,2025-07-21,7.78,Invalid,https://molport.com/Citric_Acid
+Sodium Hydroxide,Reagent,Loba Chemie,Yes,98.0–102.0%,Liquid,AR,39.02,42.04,-7.18,Low,182,7101.64,EUR,MolPort,38.96,EUR,2025-07-18,0.15,Valid,https://molport.com/Sodium_Hydroxide
+Toluene,Solvent,Merck,Yes,98.0–102.0%,Liquid,Pharma Grade,59.82,55.78,7.24,High,405,24227.1,INR,SAP Ariba,59.19,INR,2025-07-10,1.06,Valid,https://sapariba.com/Toluene
+Dimethylformamide,Solvent,Sigma Aldrich,Yes,98.0–102.0%,Granular,Pharma Grade,69.8,69.62,0.26,Fair,397,27710.6,USD,ChemSpider,76.51,USD,2025-07-17,-8.77,Invalid,https://chemspider.com/Dimethylformamide
+Toluene,Solvent,CDH,No,≥99.0%,Crystalline,Pharma Grade,104.19,108.68,-4.13,Fair,454,47302.26,USD,LabNetwork,94.19,USD,2025-07-07,10.62,Valid,https://labnetwork.com/Toluene
+Hydrochloric Acid,Reagent,Merck,Yes,98.0–102.0%,Granular,USP,120.97,117.87,2.63,Fair,500,60485.0,INR,SAP Ariba,132.91,INR,2025-07-05,-8.98,Invalid,https://sapariba.com/Hydrochloric_Acid
+Methanol,Solvent,Merck,Yes,≥99.0%,Powder,LR,105.6,113.73,-7.15,Low,434,45830.4,EUR,Alibaba,103.21,EUR,2025-07-12,2.32,Valid,https://alibaba.com/Methanol
+Ethanol,Solvent,Merck,No,≥99.0%,Crystalline,AR,63.62,65.24,-2.48,Fair,23,1463.26,INR,SAP Ariba,71.55,INR,2025-07-06,-11.08,Valid,https://sapariba.com/Ethanol
+Magnesium Stearate,Excipient,Loba Chemie,No,AR Grade,Crystalline,USP,36.44,36.08,1.0,Fair,235,8563.4,USD,MolPort,31.78,USD,2025-07-03,14.66,Valid,https://molport.com/Magnesium_Stearate
+Magnesium Stearate,Excipient,Merck,Yes,≥99.0%,Powder,USP,118.31,118.84,-0.45,Fair,114,13487.34,INR,ChemSpider,115.12,INR,2025-07-17,2.77,Invalid,https://chemspider.com/Magnesium_Stearate
+Dimethylformamide,Solvent,Loba Chemie,No,98.0–102.0%,Powder,Pharma Grade,124.22,119.49,3.96,Fair,396,49191.12,USD,Alibaba,126.74,USD,2025-07-04,-1.99,Invalid,https://alibaba.com/Dimethylformamide
+Acetic Anhydride,Solvent,Fisher Scientific,Yes,98.0–102.0%,Powder,Pharma Grade,81.19,79.28,2.41,Fair,396,32151.24,EUR,Alibaba,73.83,EUR,2025-07-16,9.97,Valid,https://alibaba.com/Acetic_Anhydride
+Dimethylformamide,Solvent,SRL,No,EP,Powder,AR,73.3,76.81,-4.57,Fair,95,6963.5,USD,ChemSpider,81.31,USD,2025-07-15,-9.85,Invalid,https://chemspider.com/Dimethylformamide
+Acetic Anhydride,Solvent,Merck,Yes,≥99.0%,Liquid,Pharma Grade,69.12,74.23,-6.88,Low,385,26611.2,EUR,MolPort,81.44,EUR,2025-07-26,-15.13,Invalid,https://molport.com/Acetic_Anhydride
+Magnesium Stearate,Excipient,Fisher Scientific,Yes,USP,Crystalline,USP,77.83,80.58,-3.41,Fair,163,12686.29,USD,LabNetwork,82.69,USD,2025-07-10,-5.88,Invalid,https://labnetwork.com/Magnesium_Stearate
+Citric Acid,Excipient,SRL,Yes,EP,Liquid,LR,101.44,98.85,2.62,Fair,347,35199.68,EUR,MolPort,104.88,EUR,2025-06-30,-3.28,Invalid,https://molport.com/Citric_Acid
+Citric Acid,Excipient,Fisher Scientific,Yes,USP,Granular,USP,76.89,73.97,3.95,Fair,74,5689.86,USD,MolPort,77.87,USD,2025-07-02,-1.26,Invalid,https://molport.com/Citric_Acid
+Ethanol,Solvent,Merck,Yes,USP,Powder,Pharma Grade,46.95,47.5,-1.16,Fair,494,23193.3,EUR,Alibaba,46.03,EUR,2025-07-07,2.0,Valid,https://alibaba.com/Ethanol
+Dimethylformamide,Solvent,SRL,No,USP,Powder,USP,74.38,71.38,4.2,Fair,105,7809.9,EUR,MolPort,62.08,EUR,2025-06-30,19.81,Valid,https://molport.com/Dimethylformamide
+Methanol,Solvent,Merck,No,98.0–102.0%,Granular,Pharma Grade,83.8,82.95,1.02,Fair,67,5614.6,INR,Alibaba,71.17,INR,2025-07-15,17.75,Invalid,https://alibaba.com/Methanol
+Sodium Hydroxide,Reagent,Merck,Yes,USP,Granular,Pharma Grade,91.72,94.73,-3.18,Fair,102,9355.44,USD,MolPort,94.87,USD,2025-06-27,-3.32,Valid,https://molport.com/Sodium_Hydroxide
+Sodium Hydroxide,Reagent,Loba Chemie,Yes,AR Grade,Powder,Pharma Grade,96.65,95.82,0.87,Fair,392,37886.8,EUR,SAP Ariba,109.13,EUR,2025-07-13,-11.44,Invalid,https://sapariba.com/Sodium_Hydroxide
+Ethanol,Solvent,Sigma Aldrich,Yes,98.0–102.0%,Granular,USP,75.57,75.93,-0.47,Fair,477,36046.89,INR,LabNetwork,72.16,INR,2025-07-21,4.73,Invalid,https://labnetwork.com/Ethanol
+Citric Acid,Excipient,Loba Chemie,Yes,≥99.0%,Powder,USP,107.94,100.85,7.03,High,500,53970.0,EUR,LabNetwork,99.91,EUR,2025-07-06,8.04,Invalid,https://labnetwork.com/Citric_Acid
+Piperidine,Reagent,Fisher Scientific,Yes,AR Grade,Liquid,USP,87.25,85.0,2.65,Fair,386,33678.5,EUR,MolPort,73.56,EUR,2025-07-19,18.61,Valid,https://molport.com/Piperidine
+Methanol,Solvent,CDH,No,AR Grade,Powder,AR,79.16,82.88,-4.49,Fair,104,8232.64,EUR,MolPort,88.54,EUR,2025-07-12,-10.59,Valid,https://molport.com/Methanol
+Methanol,Solvent,SRL,Yes,EP,Powder,AR,80.82,79.77,1.32,Fair,220,17780.4,USD,ChemSpider,90.85,USD,2025-07-20,-11.04,Valid,https://chemspider.com/Methanol
+Piperidine,Reagent,SRL,No,USP,Liquid,LR,42.39,39.51,7.29,High,20,847.8,USD,Alibaba,39.46,USD,2025-07-07,7.43,Invalid,https://alibaba.com/Piperidine
+Ethanol,Solvent,CDH,No,98.0–102.0%,Powder,USP,91.9,96.33,-4.6,Fair,277,25456.3,USD,Alibaba,104.39,USD,2025-07-26,-11.96,Invalid,https://alibaba.com/Ethanol
+Magnesium Stearate,Excipient,Loba Chemie,Yes,EP,Crystalline,AR,34.59,32.78,5.52,High,158,5465.22,INR,SAP Ariba,34.82,INR,2025-07-22,-0.66,Valid,https://sapariba.com/Magnesium_Stearate
+Magnesium Stearate,Excipient,CDH,No,≥99.0%,Liquid,Pharma Grade,102.43,109.16,-6.17,Low,274,28065.82,EUR,ChemSpider,104.69,EUR,2025-07-13,-2.16,Invalid,https://chemspider.com/Magnesium_Stearate
+Toluene,Solvent,SRL,No,≥99.0%,Powder,Pharma Grade,58.07,56.67,2.47,Fair,63,3658.41,INR,MolPort,61.0,INR,2025-07-13,-4.8,Invalid,https://molport.com/Toluene
+Hydrochloric Acid,Reagent,Merck,No,USP,Liquid,AR,78.16,77.82,0.44,Fair,444,34703.04,INR,MolPort,71.29,INR,2025-07-08,9.64,Valid,https://molport.com/Hydrochloric_Acid
+Sodium Hydroxide,Reagent,CDH,Yes,USP,Powder,LR,109.71,110.69,-0.89,Fair,86,9435.06,INR,Alibaba,112.6,INR,2025-07-02,-2.57,Valid,https://alibaba.com/Sodium_Hydroxide
+Citric Acid,Excipient,Sigma Aldrich,Yes,USP,Granular,Pharma Grade,36.23,40.11,-9.67,Low,453,16412.19,USD,MolPort,34.76,USD,2025-07-23,4.23,Invalid,https://molport.com/Citric_Acid
+Toluene,Solvent,Fisher Scientific,Yes,≥99.0%,Crystalline,Pharma Grade,55.33,53.97,2.52,Fair,446,24677.18,INR,SAP Ariba,52.03,INR,2025-07-05,6.34,Invalid,https://sapariba.com/Toluene
+Citric Acid,Excipient,Loba Chemie,No,EP,Granular,AR,103.34,106.15,-2.65,Fair,81,8370.54,EUR,Alibaba,108.13,EUR,2025-07-16,-4.43,Valid,https://alibaba.com/Citric_Acid
+Ethanol,Solvent,SRL,No,98.0–102.0%,Powder,Pharma Grade,34.87,37.93,-8.07,Low,105,3661.35,EUR,ChemSpider,35.03,EUR,2025-07-07,-0.46,Invalid,https://chemspider.com/Ethanol
+Sodium Hydroxide,Reagent,Loba Chemie,No,EP,Crystalline,USP,103.55,100.38,3.16,Fair,340,35207.0,EUR,SAP Ariba,90.42,EUR,2025-07-06,14.52,Valid,https://sapariba.com/Sodium_Hydroxide
+Acetic Anhydride,Solvent,SRL,Yes,EP,Powder,Pharma Grade,45.22,42.26,7.0,High,269,12164.18,USD,SAP Ariba,42.78,USD,2025-07-02,5.7,Valid,https://sapariba.com/Acetic_Anhydride
+Ethanol,Solvent,SRL,No,98.0–102.0%,Granular,AR,97.51,107.19,-9.03,Low,320,31203.2,EUR,MolPort,117.28,EUR,2025-06-28,-16.86,Invalid,https://molport.com/Ethanol
+Citric Acid,Excipient,Sigma Aldrich,Yes,AR Grade,Crystalline,Pharma Grade,37.19,39.22,-5.18,Low,444,16512.36,EUR,LabNetwork,44.95,EUR,2025-07-23,-17.26,Valid,https://labnetwork.com/Citric_Acid
+Dimethylformamide,Solvent,Sigma Aldrich,Yes,USP,Powder,USP,104.08,104.98,-0.86,Fair,107,11136.56,EUR,ChemSpider,117.6,EUR,2025-07-26,-11.5,Invalid,https://chemspider.com/Dimethylformamide
+Sodium Hydroxide,Reagent,CDH,No,USP,Powder,USP,46.89,42.76,9.66,High,437,20490.93,INR,Alibaba,43.8,INR,2025-07-15,7.05,Valid,https://alibaba.com/Sodium_Hydroxide
+Acetic Anhydride,Solvent,Sigma Aldrich,Yes,USP,Crystalline,USP,31.78,33.28,-4.51,Fair,438,13919.64,INR,ChemSpider,32.73,INR,2025-07-13,-2.9,Valid,https://chemspider.com/Acetic_Anhydride
+Acetic Anhydride,Solvent,CDH,Yes,98.0–102.0%,Powder,USP,88.5,83.58,5.89,High,240,21240.0,INR,MolPort,93.3,INR,2025-07-18,-5.14,Invalid,https://molport.com/Acetic_Anhydride
+Sodium Hydroxide,Reagent,CDH,Yes,98.0–102.0%,Liquid,Pharma Grade,86.78,93.5,-7.19,Low,222,19265.16,USD,SAP Ariba,99.73,USD,2025-07-17,-12.99,Invalid,https://sapariba.com/Sodium_Hydroxide
+Methanol,Solvent,Merck,No,EP,Liquid,USP,54.03,56.28,-4.0,Fair,325,17559.75,EUR,Alibaba,54.83,EUR,2025-07-20,-1.46,Valid,https://alibaba.com/Methanol
+Sodium Hydroxide,Reagent,Fisher Scientific,No,AR Grade,Liquid,Pharma Grade,59.61,58.32,2.21,Fair,85,5066.85,INR,Alibaba,63.58,INR,2025-07-19,-6.24,Invalid,https://alibaba.com/Sodium_Hydroxide
+Dimethylformamide,Solvent,SRL,No,AR Grade,Powder,USP,90.2,89.56,0.71,Fair,377,34005.4,EUR,LabNetwork,102.46,EUR,2025-07-17,-11.97,Invalid,https://labnetwork.com/Dimethylformamide
+Magnesium Stearate,Excipient,Loba Chemie,No,98.0–102.0%,Powder,AR,58.55,57.97,1.0,Fair,421,24649.55,USD,MolPort,65.0,USD,2025-06-29,-9.92,Valid,https://molport.com/Magnesium_Stearate
+Magnesium Stearate,Excipient,Fisher Scientific,Yes,USP,Granular,LR,36.84,34.26,7.53,High,378,13925.52,EUR,SAP Ariba,38.08,EUR,2025-07-14,-3.26,Invalid,https://sapariba.com/Magnesium_Stearate
+Acetic Anhydride,Solvent,Fisher Scientific,No,AR Grade,Liquid,USP,76.02,69.9,8.76,High,117,8894.34,INR,ChemSpider,71.94,INR,2025-07-17,5.67,Invalid,https://chemspider.com/Acetic_Anhydride
+Piperidine,Reagent,Sigma Aldrich,No,98.0–102.0%,Crystalline,USP,75.99,70.95,7.1,High,327,24848.73,INR,MolPort,76.5,INR,2025-07-20,-0.67,Valid,https://molport.com/Piperidine
+Toluene,Solvent,Merck,No,USP,Liquid,USP,74.98,72.37,3.61,Fair,210,15745.8,EUR,MolPort,69.72,EUR,2025-07-16,7.54,Invalid,https://molport.com/Toluene
+Acetic Anhydride,Solvent,Sigma Aldrich,No,USP,Crystalline,USP,33.46,30.46,9.85,High,448,14990.08,INR,MolPort,27.57,INR,2025-07-14,21.36,Valid,https://molport.com/Acetic_Anhydride
+Piperidine,Reagent,Loba Chemie,Yes,EP,Powder,USP,48.03,52.21,-8.01,Low,270,12968.1,INR,ChemSpider,59.93,INR,2025-07-06,-19.86,Invalid,https://chemspider.com/Piperidine
+Acetic Anhydride,Solvent,Loba Chemie,No,98.0–102.0%,Powder,Pharma Grade,106.89,108.6,-1.57,Fair,388,41473.32,USD,SAP Ariba,107.43,USD,2025-07-12,-0.5,Valid,https://sapariba.com/Acetic_Anhydride
+Sodium Hydroxide,Reagent,CDH,No,USP,Crystalline,USP,100.86,100.09,0.77,Fair,436,43974.96,USD,ChemSpider,109.07,USD,2025-07-25,-7.53,Valid,https://chemspider.com/Sodium_Hydroxide
+Toluene,Solvent,Sigma Aldrich,Yes,USP,Powder,USP,50.79,55.35,-8.24,Low,433,21992.07,EUR,MolPort,52.87,EUR,2025-07-27,-3.93,Valid,https://molport.com/Toluene
+Sodium Hydroxide,Reagent,CDH,No,USP,Crystalline,Pharma Grade,30.04,30.7,-2.15,Fair,190,5707.6,EUR,SAP Ariba,27.39,EUR,2025-07-19,9.68,Invalid,https://sapariba.com/Sodium_Hydroxide
+Acetic Anhydride,Solvent,Merck,Yes,≥99.0%,Granular,LR,57.49,54.3,5.87,High,312,17936.88,EUR,Alibaba,51.5,EUR,2025-07-18,11.63,Invalid,https://alibaba.com/Acetic_Anhydride
+Methanol,Solvent,Fisher Scientific,No,USP,Liquid,LR,93.43,87.2,7.14,High,101,9436.43,INR,ChemSpider,76.63,INR,2025-07-12,21.92,Valid,https://chemspider.com/Methanol
+Toluene,Solvent,Sigma Aldrich,Yes,USP,Powder,AR,55.44,57.84,-4.15,Fair,320,17740.8,EUR,ChemSpider,52.56,EUR,2025-07-14,5.48,Valid,https://chemspider.com/Toluene
+Magnesium Stearate,Excipient,CDH,Yes,USP,Liquid,USP,91.47,87.34,4.73,Fair,391,35764.77,USD,ChemSpider,99.59,USD,2025-07-13,-8.15,Valid,https://chemspider.com/Magnesium_Stearate
+Sodium Hydroxide,Reagent,Fisher Scientific,No,AR Grade,Powder,Pharma Grade,61.38,58.53,4.87,Fair,211,12951.18,EUR,ChemSpider,53.78,EUR,2025-07-21,14.13,Valid,https://chemspider.com/Sodium_Hydroxide
+Ethanol,Solvent,Sigma Aldrich,Yes,≥99.0%,Liquid,Pharma Grade,90.36,84.69,6.7,High,339,30632.04,EUR,Alibaba,93.27,EUR,2025-06-27,-3.12,Valid,https://alibaba.com/Ethanol
+Citric Acid,Excipient,Fisher Scientific,No,98.0–102.0%,Crystalline,Pharma Grade,97.19,103.87,-6.43,Low,444,43152.36,INR,SAP Ariba,90.52,INR,2025-07-17,7.37,Invalid,https://sapariba.com/Citric_Acid
+Hydrochloric Acid,Reagent,Loba Chemie,Yes,EP,Liquid,USP,72.92,67.81,7.54,High,284,20709.28,USD,ChemSpider,62.91,USD,2025-07-07,15.91,Invalid,https://chemspider.com/Hydrochloric_Acid
+Toluene,Solvent,CDH,No,98.0–102.0%,Crystalline,Pharma Grade,108.93,105.74,3.02,Fair,380,41393.4,INR,MolPort,93.15,INR,2025-07-09,16.94,Valid,https://molport.com/Toluene
+Acetic Anhydride,Solvent,Sigma Aldrich,No,≥99.0%,Liquid,AR,38.71,38.19,1.36,Fair,30,1161.3,EUR,MolPort,41.91,EUR,2025-07-18,-7.64,Valid,https://molport.com/Acetic_Anhydride
+Citric Acid,Excipient,Fisher Scientific,No,USP,Crystalline,Pharma Grade,65.04,64.36,1.06,Fair,155,10081.2,USD,ChemSpider,59.58,USD,2025-07-11,9.16,Invalid,https://chemspider.com/Citric_Acid
+Toluene,Solvent,Fisher Scientific,Yes,EP,Granular,USP,62.86,61.03,3.0,Fair,239,15023.54,INR,SAP Ariba,65.59,INR,2025-06-27,-4.16,Valid,https://sapariba.com/Toluene
+Methanol,Solvent,Loba Chemie,Yes,98.0–102.0%,Crystalline,LR,86.49,82.24,5.17,High,361,31222.89,INR,LabNetwork,83.46,INR,2025-07-24,3.63,Valid,https://labnetwork.com/Methanol
+Ethanol,Solvent,Loba Chemie,Yes,98.0–102.0%,Powder,USP,106.52,106.4,0.11,Fair,287,30571.24,USD,SAP Ariba,110.97,USD,2025-07-07,-4.01,Valid,https://sapariba.com/Ethanol
